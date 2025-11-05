@@ -1,8 +1,1 @@
-sentence-transformers>=2.2.2
-faiss-cpu>=1.7.4
-google-generativeai>=0.20.0
-numpy>=1.24
-tqdm>=4.60.0
-streamlit>=1.24
-wikipedia>=1.4.0
-python-dotenv>=1.0.0
+wikipedia
